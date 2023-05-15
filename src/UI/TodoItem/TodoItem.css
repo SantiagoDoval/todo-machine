@@ -1,5 +1,5 @@
 .TodoItem {
-  background-color: #FAFAFA;
+  background-color: #21252f;
   position: relative;
   display: flex;
   justify-content: center;
@@ -9,7 +9,7 @@
 }
 
 .TodoItem-p {
-  color: #1E1E1F;
+  color: #ffffff;
   margin: 24px 0 24px 24px;
   width: calc(100% - 120px);
   font-size: 18px;
