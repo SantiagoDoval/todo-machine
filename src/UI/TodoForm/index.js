@@ -29,7 +29,7 @@ function TodoForm(props) {
       />
       <div className="TodoForm-buttonContainer">
         <button
-          type="button"
+          type="button"          
           className="TodoForm-button TodoForm-button--cancel"
           onClick={onCancel}
           >
